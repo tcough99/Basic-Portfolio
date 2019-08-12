@@ -1,2 +1,3 @@
 # Basic-Portfolio
-Homework Assignment 1
+Homework Assignment 
+- This project was definitely more difficult for me than expected. 
